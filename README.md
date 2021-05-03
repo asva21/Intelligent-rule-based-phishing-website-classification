@@ -30,6 +30,9 @@ helps to redirect URL using chrome and if it is phishy URL you will not be redir
 
 
 
-Feel Free to Post comments regarding any Doubts on Working of the Project
-Thank you
+
+
+
+---->Feel Free to Post comments regarding any Doubts on Working of the Project
+     Thank you
 
