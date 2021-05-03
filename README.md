@@ -28,3 +28,8 @@ Opening the link in your browser and insert any URL you can enter the  full URL 
 After entering the URL  press check now if it is **not a phishy URL** you will be redirected to the website if you have chrome installed in your pc which  
 helps to redirect URL using chrome and if it is phishy URL you will not be redirected and  notified there.
 
+
+
+Feel Free to Post comments regarding any Doubts on Working of the Project
+Thank you
+
